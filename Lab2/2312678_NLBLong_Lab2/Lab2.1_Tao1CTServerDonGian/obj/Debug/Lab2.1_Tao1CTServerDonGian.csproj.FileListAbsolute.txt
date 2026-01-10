@@ -1,0 +1,7 @@
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\bin\Debug\Lab2.1_Tao1CTServerDonGian.exe.config
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\bin\Debug\Lab2.1_Tao1CTServerDonGian.exe
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\bin\Debug\Lab2.1_Tao1CTServerDonGian.pdb
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\obj\Debug\Lab2.1_Tao1CTServerDonGian.csprojAssemblyReference.cache
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\obj\Debug\Lab2.1_Tao1CTServerDonGian.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\obj\Debug\Lab2.1_Tao1CTServerDonGian.exe
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2.1_Tao1CTServerDonGian\obj\Debug\Lab2.1_Tao1CTServerDonGian.pdb

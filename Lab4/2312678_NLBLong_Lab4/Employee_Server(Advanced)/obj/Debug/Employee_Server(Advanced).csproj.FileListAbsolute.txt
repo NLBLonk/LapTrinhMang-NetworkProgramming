@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\bin\Debug\Employee_Server(Advanced).exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\bin\Debug\Employee_Server(Advanced).exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\bin\Debug\Employee_Server(Advanced).pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\obj\Debug\Employee_Server(Advanced).csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\obj\Debug\Employee_Server(Advanced).csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\obj\Debug\Employee_Server(Advanced).exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\obj\Debug\Employee_Server(Advanced).pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab4\Employee_Server(Advanced)\obj\Debug\Employee_Server(Advanced).exe.config

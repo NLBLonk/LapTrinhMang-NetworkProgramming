@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\bin\Debug\Lab3.1_UDP_Client.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\bin\Debug\Lab3.1_UDP_Client.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\bin\Debug\Lab3.1_UDP_Client.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\obj\Debug\Lab3.1_UDP_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\obj\Debug\Lab3.1_UDP_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\obj\Debug\Lab3.1_UDP_Client.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\obj\Debug\Lab3.1_UDP_Client.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.1_UDP_Client\obj\Debug\Lab3.1_UDP_Client.exe.config

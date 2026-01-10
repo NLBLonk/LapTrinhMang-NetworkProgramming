@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\bin\Debug\Lab2_BaiTap_TinhToanClient.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\bin\Debug\Lab2_BaiTap_TinhToanClient.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\bin\Debug\Lab2_BaiTap_TinhToanClient.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\obj\Debug\Lab2_BaiTap_TinhToanClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\obj\Debug\Lab2_BaiTap_TinhToanClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\obj\Debug\Lab2_BaiTap_TinhToanClient.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\obj\Debug\Lab2_BaiTap_TinhToanClient.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_BaiTap_TinhToanClient\obj\Debug\Lab2_BaiTap_TinhToanClient.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\bin\Debug\TCPEchoClient.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\bin\Debug\TCPEchoClient.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\bin\Debug\TCPEchoClient.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\obj\Debug\TCPEchoClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\obj\Debug\TCPEchoClient.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\obj\Debug\TCPEchoClient.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TCPEchoClient\obj\Debug\TCPEchoClient.exe.config

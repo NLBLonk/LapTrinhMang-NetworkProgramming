@@ -1,0 +1,70 @@
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\ChatApp_Client.exe.config
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\ChatApp_Client.exe
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\ChatApp_Client.pdb
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmClient.resources
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmLogin.resources
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.Properties.Resources.resources
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.exe
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.pdb
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.exe.config
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Class.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Class.pdb
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_.B94BD9CB.Up2Date
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.exe.config
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmClient.resources
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmCreateGroup.resources
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmLogin.resources
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmSignup.resources
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.Properties.Resources.resources
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.exe
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.pdb
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\ChatApp_Client.exe.config
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\ChatApp_Client.exe
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\ChatApp_Client.pdb
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Class.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Class.pdb
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\Learn\Lập trình mạng\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_.B94BD9CB.Up2Date
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmCreateGroup.resources
+C:\Users\Admin\Desktop\Nhom8_ChatApp\ChatApp_Client\obj\Debug\ChatApp_Client.frmSignup.resources

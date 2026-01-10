@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74754AA1-D660-4A54-A131-73D3E36DA03B}|AsyncSocketTCP\\AsyncSocketTCP.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab6_1\\asyncsockettcp\\asyncsockettcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74754AA1-D660-4A54-A131-73D3E36DA03B}|AsyncSocketTCP\\AsyncSocketTCP.csproj|solutionrelative:asyncsockettcp\\asyncsockettcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C34B5F-F9FC-4A68-B0C1-D25F8299E623}|AsyncSocketClient\\AsyncSocketClient.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\asyncsocketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C34B5F-F9FC-4A68-B0C1-D25F8299E623}|AsyncSocketClient\\AsyncSocketClient.csproj|solutionrelative:asyncsocketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594B15C-D779-4FF3-B2E7-D4951C2BF6EF}|AsyncSocketServer\\AsyncSocketServer.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7594B15C-D779-4FF3-B2E7-D4951C2BF6EF}|AsyncSocketServer\\AsyncSocketServer.csproj|solutionrelative:asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7594B15C-D779-4FF3-B2E7-D4951C2BF6EF}|AsyncSocketServer\\AsyncSocketServer.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7594B15C-D779-4FF3-B2E7-D4951C2BF6EF}|AsyncSocketServer\\AsyncSocketServer.csproj|solutionrelative:asyncsocketserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C34B5F-F9FC-4A68-B0C1-D25F8299E623}|AsyncSocketClient\\AsyncSocketClient.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\asyncsocketclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D5C34B5F-F9FC-4A68-B0C1-D25F8299E623}|AsyncSocketClient\\AsyncSocketClient.csproj|solutionrelative:asyncsocketclient\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74754AA1-D660-4A54-A131-73D3E36DA03B}|AsyncSocketTCP\\AsyncSocketTCP.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\asyncsockettcp\\asyncsockettcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74754AA1-D660-4A54-A131-73D3E36DA03B}|AsyncSocketTCP\\AsyncSocketTCP.csproj|solutionrelative:asyncsockettcp\\asyncsockettcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketClient\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncSocketClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketClient\\Program.cs",
+              "RelativeToolTip": "AsyncSocketClient\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:54:09.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsyncSocketTCPClient.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "RelativeDocumentMoniker": "AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "RelativeToolTip": "AsyncSocketTCP\\AsyncSocketTCPClient.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:41:41.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketServer\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncSocketServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketServer\\Form1.cs",
+              "RelativeToolTip": "AsyncSocketServer\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:35:02.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketClient\\App.config",
+              "RelativeDocumentMoniker": "AsyncSocketClient\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketClient\\App.config",
+              "RelativeToolTip": "AsyncSocketClient\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-21T05:16:29.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketServer\\Form1.cs",
+              "RelativeDocumentMoniker": "AsyncSocketServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketServer\\Form1.cs [Design]",
+              "RelativeToolTip": "AsyncSocketServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:21:40.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsyncSocketTCPServer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "RelativeDocumentMoniker": "AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab6_1\\AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "RelativeToolTip": "AsyncSocketTCP\\AsyncSocketTCPServer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:25:15.317Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

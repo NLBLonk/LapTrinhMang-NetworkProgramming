@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E75E17A-FF0C-4BB6-AA06-EAF8F8F32F32}|Employee_Server(Advanced)\\Employee_Server(Advanced).csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\employee_server(advanced)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E75E17A-FF0C-4BB6-AA06-EAF8F8F32F32}|Employee_Server(Advanced)\\Employee_Server(Advanced).csproj|solutionrelative:employee_server(advanced)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A9363-00C2-4D20-8CEA-768C2C367D1F}|Employee_Client(Advanced)\\Employee_Client(Advanced).csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\employee_client(advanced)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A9363-00C2-4D20-8CEA-768C2C367D1F}|Employee_Client(Advanced)\\Employee_Client(Advanced).csproj|solutionrelative:employee_client(advanced)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E75E17A-FF0C-4BB6-AA06-EAF8F8F32F32}|Employee_Server(Advanced)\\Employee_Server(Advanced).csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\employee_server(advanced)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E75E17A-FF0C-4BB6-AA06-EAF8F8F32F32}|Employee_Server(Advanced)\\Employee_Server(Advanced).csproj|solutionrelative:employee_server(advanced)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000A9363-00C2-4D20-8CEA-768C2C367D1F}|Employee_Client(Advanced)\\Employee_Client(Advanced).csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\employee_client(advanced)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000A9363-00C2-4D20-8CEA-768C2C367D1F}|Employee_Client(Advanced)\\Employee_Client(Advanced).csproj|solutionrelative:employee_client(advanced)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05F391-4BA8-4A5B-AD0E-FADD00E6AE59}|Employee_Client\\Employee_Client.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\employee_client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05F391-4BA8-4A5B-AD0E-FADD00E6AE59}|Employee_Client\\Employee_Client.csproj|solutionrelative:employee_client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72C57AC-70FD-4596-AF3B-4436DA63B2D4}|Employee_Server\\Employee_Server.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\employee_server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72C57AC-70FD-4596-AF3B-4436DA63B2D4}|Employee_Server\\Employee_Server.csproj|solutionrelative:employee_server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006B1CDD-2EB5-48B9-8876-111980A7ADFB}|UDP_Employee_Server\\UDP_Employee_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\udp_employee_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006B1CDD-2EB5-48B9-8876-111980A7ADFB}|UDP_Employee_Server\\UDP_Employee_Server.csproj|solutionrelative:udp_employee_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C10993-93DA-4175-B7F2-DEEB97657F29}|UDP_Employee_Client\\UDP_Employee_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\udp_employee_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C10993-93DA-4175-B7F2-DEEB97657F29}|UDP_Employee_Client\\UDP_Employee_Client.csproj|solutionrelative:udp_employee_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB05F391-4BA8-4A5B-AD0E-FADD00E6AE59}|Employee_Client\\Employee_Client.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\employee_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB05F391-4BA8-4A5B-AD0E-FADD00E6AE59}|Employee_Client\\Employee_Client.csproj|solutionrelative:employee_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006B1CDD-2EB5-48B9-8876-111980A7ADFB}|UDP_Employee_Server\\UDP_Employee_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\udp_employee_server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006B1CDD-2EB5-48B9-8876-111980A7ADFB}|UDP_Employee_Server\\UDP_Employee_Server.csproj|solutionrelative:udp_employee_server\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F95CA23-80A4-46C0-BFD1-F1BE2E583E1A}|TCPClient\\TCPClient.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F95CA23-80A4-46C0-BFD1-F1BE2E583E1A}|TCPClient\\TCPClient.csproj|solutionrelative:tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72C57AC-70FD-4596-AF3B-4436DA63B2D4}|Employee_Server\\Employee_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\employee_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72C57AC-70FD-4596-AF3B-4436DA63B2D4}|Employee_Server\\Employee_Server.csproj|solutionrelative:employee_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C10993-93DA-4175-B7F2-DEEB97657F29}|UDP_Employee_Client\\UDP_Employee_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab4\\udp_employee_client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C10993-93DA-4175-B7F2-DEEB97657F29}|UDP_Employee_Client\\UDP_Employee_Client.csproj|solutionrelative:udp_employee_client\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C07569-078C-464E-8C85-C56569D1987A}|TCPListener\\TCPListener.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\tcplistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C07569-078C-464E-8C85-C56569D1987A}|TCPListener\\TCPListener.csproj|solutionrelative:tcplistener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263DAFBA-41CB-4EFC-8DBA-3920996FDAE1}|UDPClient\\UDPClient.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263DAFBA-41CB-4EFC-8DBA-3920996FDAE1}|UDPClient\\UDPClient.csproj|solutionrelative:udpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B033DDB-4FDA-4F1A-B81B-242C9A1C5818}|UDPServer\\UDPServer.csproj|C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B033DDB-4FDA-4F1A-B81B-242C9A1C5818}|UDPServer\\UDPServer.csproj|solutionrelative:udpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client(Advanced)\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Client(Advanced)\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client(Advanced)\\Employee.cs",
+              "RelativeToolTip": "Employee_Client(Advanced)\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:11:56.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client(Advanced)\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Client(Advanced)\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client(Advanced)\\Program.cs",
+              "RelativeToolTip": "Employee_Client(Advanced)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:10:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server(Advanced)\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Server(Advanced)\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server(Advanced)\\Employee.cs",
+              "RelativeToolTip": "Employee_Server(Advanced)\\Employee.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:08:26.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server(Advanced)\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Server(Advanced)\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server(Advanced)\\Program.cs",
+              "RelativeToolTip": "Employee_Server(Advanced)\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:04:04.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Client\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_Employee_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Client\\Program.cs",
+              "RelativeToolTip": "UDP_Employee_Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:40:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Server\\Employee.cs",
+              "RelativeDocumentMoniker": "UDP_Employee_Server\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Server\\Employee.cs",
+              "RelativeToolTip": "UDP_Employee_Server\\Employee.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:39:51.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Server\\Program.cs",
+              "RelativeDocumentMoniker": "UDP_Employee_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Server\\Program.cs",
+              "RelativeToolTip": "UDP_Employee_Server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:39:01.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Client\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client\\Employee.cs",
+              "RelativeToolTip": "Employee_Client\\Employee.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:52.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Client\\Employee.cs",
+              "RelativeDocumentMoniker": "UDP_Employee_Client\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDP_Employee_Client\\Employee.cs",
+              "RelativeToolTip": "UDP_Employee_Client\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:40:50.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Client\\Program.cs",
+              "RelativeToolTip": "Employee_Client\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Server\\Employee.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server\\Employee.cs",
+              "RelativeToolTip": "Employee_Server\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\Employee_Server\\Program.cs",
+              "RelativeToolTip": "Employee_Server\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\TCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "TCPClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\TCPClient\\Program.cs",
+              "RelativeToolTip": "TCPClient\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:53.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDPClient\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDPClient\\Program.cs",
+              "RelativeToolTip": "UDPClient\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDPServer\\Program.cs",
+              "RelativeDocumentMoniker": "UDPServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\UDPServer\\Program.cs",
+              "RelativeToolTip": "UDPServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:53.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\TCPListener\\Program.cs",
+              "RelativeDocumentMoniker": "TCPListener\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab4\\TCPListener\\Program.cs",
+              "RelativeToolTip": "TCPListener\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:01:53.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

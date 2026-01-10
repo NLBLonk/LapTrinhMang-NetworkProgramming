@@ -1,0 +1,7 @@
+D:\2312678_NLBLong_Lab4\UDPServer\bin\Debug\UDPServer.exe.config
+D:\2312678_NLBLong_Lab4\UDPServer\bin\Debug\UDPServer.exe
+D:\2312678_NLBLong_Lab4\UDPServer\bin\Debug\UDPServer.pdb
+D:\2312678_NLBLong_Lab4\UDPServer\obj\Debug\UDPServer.csproj.AssemblyReference.cache
+D:\2312678_NLBLong_Lab4\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\2312678_NLBLong_Lab4\UDPServer\obj\Debug\UDPServer.exe
+D:\2312678_NLBLong_Lab4\UDPServer\obj\Debug\UDPServer.pdb

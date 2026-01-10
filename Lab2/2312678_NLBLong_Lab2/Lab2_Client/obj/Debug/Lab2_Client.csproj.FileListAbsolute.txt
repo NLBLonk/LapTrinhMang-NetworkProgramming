@@ -1,0 +1,14 @@
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2_Client\bin\Debug\Lab2_Client.exe.config
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2_Client\bin\Debug\Lab2_Client.exe
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2_Client\bin\Debug\Lab2_Client.pdb
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.exe
+C:\Users\CICT\source\repos\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\bin\Debug\Lab2_Client.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\bin\Debug\Lab2_Client.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\bin\Debug\Lab2_Client.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab2\Lab2_Client\obj\Debug\Lab2_Client.pdb

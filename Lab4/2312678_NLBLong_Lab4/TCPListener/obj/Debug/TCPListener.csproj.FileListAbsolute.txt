@@ -1,0 +1,7 @@
+D:\2312678_NLBLong_Lab4\TCPListener\bin\Debug\TCPListener.exe.config
+D:\2312678_NLBLong_Lab4\TCPListener\bin\Debug\TCPListener.exe
+D:\2312678_NLBLong_Lab4\TCPListener\bin\Debug\TCPListener.pdb
+D:\2312678_NLBLong_Lab4\TCPListener\obj\Debug\TCPListener.csproj.AssemblyReference.cache
+D:\2312678_NLBLong_Lab4\TCPListener\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+D:\2312678_NLBLong_Lab4\TCPListener\obj\Debug\TCPListener.exe
+D:\2312678_NLBLong_Lab4\TCPListener\obj\Debug\TCPListener.pdb

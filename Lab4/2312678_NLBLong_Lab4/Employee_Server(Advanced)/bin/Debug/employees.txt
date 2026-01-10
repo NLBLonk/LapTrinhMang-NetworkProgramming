@@ -1,0 +1,49 @@
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 1
+LastName: Nguyen
+FirstName: Van A
+YearsService: 5
+Salary: 10000000
+-----------------------------------
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 2
+LastName: Nguyen Le
+FirstName: Bao Long
+YearsService: 3
+Salary: 12000000
+-----------------------------------
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 3
+LastName: Nguyen
+FirstName: Van Quy
+YearsService: 4
+Salary: 7000000
+-----------------------------------
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 4
+LastName: Le
+FirstName: Quoc An
+YearsService: 4
+Salary: 75000000
+-----------------------------------
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 6
+LastName: Tokada
+FirstName: Shinji
+YearsService: 2
+Salary: 10000000
+-----------------------------------
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 10
+LastName: Messi
+FirstName: Lionel
+YearsService: 345
+Salary: 12345676578
+-----------------------------------
+=== THONG TIN NHAN VIEN ===
+EmployeeID: 7
+LastName: Ronaldo
+FirstName: Cristiano
+YearsService: 10
+Salary: 5000000000
+-----------------------------------

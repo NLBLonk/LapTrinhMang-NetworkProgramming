@@ -1,0 +1,7 @@
+D:\2312678_NLBLong_Lab4\Employee_Server\bin\Debug\Employee_Server.exe.config
+D:\2312678_NLBLong_Lab4\Employee_Server\bin\Debug\Employee_Server.exe
+D:\2312678_NLBLong_Lab4\Employee_Server\bin\Debug\Employee_Server.pdb
+D:\2312678_NLBLong_Lab4\Employee_Server\obj\Debug\Employee_Server.csproj.AssemblyReference.cache
+D:\2312678_NLBLong_Lab4\Employee_Server\obj\Debug\Employee_Server.csproj.CoreCompileInputs.cache
+D:\2312678_NLBLong_Lab4\Employee_Server\obj\Debug\Employee_Server.exe
+D:\2312678_NLBLong_Lab4\Employee_Server\obj\Debug\Employee_Server.pdb

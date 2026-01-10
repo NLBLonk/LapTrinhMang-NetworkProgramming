@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\bin\Debug\Lab3.5_UDP_Server.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\bin\Debug\Lab3.5_UDP_Server.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\bin\Debug\Lab3.5_UDP_Server.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\obj\Debug\Lab3.5_UDP_Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\obj\Debug\Lab3.5_UDP_Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\obj\Debug\Lab3.5_UDP_Server.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab3\Lab3.5_UDP_Server\obj\Debug\Lab3.5_UDP_Server.pdb

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\obj\Debug\ThreadExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6\ThreadExample\obj\Debug\ThreadExample.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\obj\Debug\ThreadExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\obj\Debug\ThreadExample.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\ThreadExample\obj\Debug\ThreadExample.pdb

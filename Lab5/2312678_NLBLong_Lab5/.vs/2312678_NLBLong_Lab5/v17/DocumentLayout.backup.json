@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA72F85F-2D3B-4B68-BF1D-957D0D1400AD}|TCPEchoClient\\TCPEchoClient.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA72F85F-2D3B-4B68-BF1D-957D0D1400AD}|TCPEchoClient\\TCPEchoClient.csproj|solutionrelative:tcpechoclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoserverthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|solutionrelative:tcpechoserverthread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TCPEchoClient||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoserverthread\\iprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|solutionrelative:tcpechoserverthread\\iprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoserverthread\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|solutionrelative:tcpechoserverthread\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoserverthread\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|solutionrelative:tcpechoserverthread\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoserverthread\\echoprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|solutionrelative:tcpechoserverthread\\echoprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoserverthread\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15643F4F-4D61-47FF-B734-65A883F90018}|TcpEchoServerThread\\TcpEchoServerThread.csproj|solutionrelative:tcpechoserverthread\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A5295C-3E5C-4F24-BF50-E1D3DCF92D25}|ThreadExample\\ThreadExample.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\threadexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A5295C-3E5C-4F24-BF50-E1D3DCF92D25}|ThreadExample\\ThreadExample.csproj|solutionrelative:threadexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA72F85F-2D3B-4B68-BF1D-957D0D1400AD}|TCPEchoClient\\TCPEchoClient.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab5\\tcpechoclient\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TCPEchoClient",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TCPEchoClient\\TCPEchoClient.csproj",
+              "RelativeDocumentMoniker": "TCPEchoClient\\TCPEchoClient.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TCPEchoClient\\TCPEchoClient.csproj",
+              "RelativeToolTip": "TCPEchoClient\\TCPEchoClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-16T16:25:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TCPEchoClient\\Program.cs",
+              "RelativeDocumentMoniker": "TCPEchoClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TCPEchoClient\\Program.cs",
+              "RelativeToolTip": "TCPEchoClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:22:02.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\FileLogger.cs",
+              "RelativeDocumentMoniker": "TcpEchoServerThread\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\FileLogger.cs",
+              "RelativeToolTip": "TcpEchoServerThread\\FileLogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:06:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\Program.cs",
+              "RelativeDocumentMoniker": "TcpEchoServerThread\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\Program.cs",
+              "RelativeToolTip": "TcpEchoServerThread\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:52:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\ILogger.cs",
+              "RelativeDocumentMoniker": "TcpEchoServerThread\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\ILogger.cs",
+              "RelativeToolTip": "TcpEchoServerThread\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:00:13.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\IProtocol.cs",
+              "RelativeDocumentMoniker": "TcpEchoServerThread\\IProtocol.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\IProtocol.cs",
+              "RelativeToolTip": "TcpEchoServerThread\\IProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:53:21.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "TcpEchoServerThread\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\ConsoleLogger.cs",
+              "RelativeToolTip": "TcpEchoServerThread\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:02:15.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EchoProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\EchoProtocol.cs",
+              "RelativeDocumentMoniker": "TcpEchoServerThread\\EchoProtocol.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\TcpEchoServerThread\\EchoProtocol.cs",
+              "RelativeToolTip": "TcpEchoServerThread\\EchoProtocol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:54:12.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\ThreadExample\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab5\\ThreadExample\\Program.cs",
+              "RelativeToolTip": "ThreadExample\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T15:52:16.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

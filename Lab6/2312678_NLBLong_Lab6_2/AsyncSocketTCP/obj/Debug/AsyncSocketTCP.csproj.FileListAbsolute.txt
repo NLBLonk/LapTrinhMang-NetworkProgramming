@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.AssemblyReference.cache
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.dll
+C:\Users\PC602\Desktop\2312678_NLBLong_Lab6_2\AsyncSocketTCP\obj\Debug\AsyncSocketTCP.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\bin\Debug\TcpEchoServerThread.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\bin\Debug\TcpEchoServerThread.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\bin\Debug\TcpEchoServerThread.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab5\TcpEchoServerThread\obj\Debug\TcpEchoServerThread.exe.config

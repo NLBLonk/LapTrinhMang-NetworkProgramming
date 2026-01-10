@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\bin\Debug\ClientForm.exe.config
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\bin\Debug\ClientForm.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\bin\Debug\ClientForm.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\bin\Debug\AsyncSocketTCP.dll
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\bin\Debug\AsyncSocketTCP.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.Form1.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.Properties.Resources.resources
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.csproj.Up2Date
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.exe
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.pdb
+C:\Users\Admin\Desktop\2312678_NLBLong_Lab6_2\ClientForm\obj\Debug\ClientForm.exe.config

@@ -1,0 +1,7 @@
+D:\2312678_NLBLong_Lab4\TCPClient\bin\Debug\TCPClient.exe.config
+D:\2312678_NLBLong_Lab4\TCPClient\bin\Debug\TCPClient.exe
+D:\2312678_NLBLong_Lab4\TCPClient\bin\Debug\TCPClient.pdb
+D:\2312678_NLBLong_Lab4\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\2312678_NLBLong_Lab4\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\2312678_NLBLong_Lab4\TCPClient\obj\Debug\TCPClient.exe
+D:\2312678_NLBLong_Lab4\TCPClient\obj\Debug\TCPClient.pdb

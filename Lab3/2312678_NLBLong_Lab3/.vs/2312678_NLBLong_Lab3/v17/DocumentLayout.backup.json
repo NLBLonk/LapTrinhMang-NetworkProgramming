@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73B20407-F644-4C03-A6FE-A1192128597B}|Lab3.7_UDP_Server\\Lab3.7_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.7_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B20407-F644-4C03-A6FE-A1192128597B}|Lab3.7_UDP_Server\\Lab3.7_UDP_Server.csproj|solutionrelative:lab3.7_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3C47EE-9E27-48CD-B3B8-ADBC8F498C8F}|Lab3.7_UDP_Client\\Lab3.7_UDP_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.7_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3C47EE-9E27-48CD-B3B8-ADBC8F498C8F}|Lab3.7_UDP_Client\\Lab3.7_UDP_Client.csproj|solutionrelative:lab3.7_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C3468D-C731-4672-96EB-C03525AF875B}|Lab3.6_UDP_Client\\Lab3.6_UDP_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.6_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C3468D-C731-4672-96EB-C03525AF875B}|Lab3.6_UDP_Client\\Lab3.6_UDP_Client.csproj|solutionrelative:lab3.6_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F4C46-59FD-459F-ABF5-37811498740E}|Lab3.6_UDP_Server\\Lab3.6_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.6_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F4C46-59FD-459F-ABF5-37811498740E}|Lab3.6_UDP_Server\\Lab3.6_UDP_Server.csproj|solutionrelative:lab3.6_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1A3E16-74ED-4EAA-A93D-424E31F7E53E}|Lab3.3_UDP_Client\\Lab3.3_UDP_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.3_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1A3E16-74ED-4EAA-A93D-424E31F7E53E}|Lab3.3_UDP_Client\\Lab3.3_UDP_Client.csproj|solutionrelative:lab3.3_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745BDC70-09FE-40F9-8A68-625E313663A0}|Lab3.1_UDP_Client\\Lab3.1_UDP_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.1_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745BDC70-09FE-40F9-8A68-625E313663A0}|Lab3.1_UDP_Client\\Lab3.1_UDP_Client.csproj|solutionrelative:lab3.1_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9401EFF0-D7D0-4F3F-9531-2249744BFB8E}|Lab3.1_UDP_Server\\Lab3.1_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.1_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9401EFF0-D7D0-4F3F-9531-2249744BFB8E}|Lab3.1_UDP_Server\\Lab3.1_UDP_Server.csproj|solutionrelative:lab3.1_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91E4EE2F-52F4-47C0-987E-0B53A6F46C95}|Lab3.4_UDP_Client\\Lab3.4_UDP_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.4_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E4EE2F-52F4-47C0-987E-0B53A6F46C95}|Lab3.4_UDP_Client\\Lab3.4_UDP_Client.csproj|solutionrelative:lab3.4_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32374FDC-1F73-4C73-BE50-63801967B193}|Lab3.4_UDP_Server\\Lab3.4_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.4_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32374FDC-1F73-4C73-BE50-63801967B193}|Lab3.4_UDP_Server\\Lab3.4_UDP_Server.csproj|solutionrelative:lab3.4_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDC8090-01AA-4834-BEBD-38C940418BC0}|Lab3.5_UDP_Client\\Lab3.5_UDP_Client.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.5_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDC8090-01AA-4834-BEBD-38C940418BC0}|Lab3.5_UDP_Client\\Lab3.5_UDP_Client.csproj|solutionrelative:lab3.5_udp_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE751673-7300-4C23-826F-D9D380B986DC}|Lab3.5_UDP_Server\\Lab3.5_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.5_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE751673-7300-4C23-826F-D9D380B986DC}|Lab3.5_UDP_Server\\Lab3.5_UDP_Server.csproj|solutionrelative:lab3.5_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6D05DD-EDFC-4540-8498-0D2DB9FB9270}|Lab3.3_UDP_Server\\Lab3.3_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.3_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE6D05DD-EDFC-4540-8498-0D2DB9FB9270}|Lab3.3_UDP_Server\\Lab3.3_UDP_Server.csproj|solutionrelative:lab3.3_udp_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE6D05DD-EDFC-4540-8498-0D2DB9FB9270}|Lab3.3_UDP_Server\\Lab3.3_UDP_Server.csproj|c:\\users\\admin\\desktop\\2312678_nlblong_lab3\\lab3.3_udp_server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CE6D05DD-EDFC-4540-8498-0D2DB9FB9270}|Lab3.3_UDP_Server\\Lab3.3_UDP_Server.csproj|solutionrelative:lab3.3_udp_server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.7_UDP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.7_UDP_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.7_UDP_Client\\Program.cs",
+              "RelativeToolTip": "Lab3.7_UDP_Client\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADgv2kAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:17:53.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.7_UDP_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.7_UDP_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.7_UDP_Server\\Program.cs",
+              "RelativeToolTip": "Lab3.7_UDP_Server\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:17:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.6_UDP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.6_UDP_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.6_UDP_Client\\Program.cs",
+              "RelativeToolTip": "Lab3.6_UDP_Client\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:46:37.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.6_UDP_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.6_UDP_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.6_UDP_Server\\Program.cs",
+              "RelativeToolTip": "Lab3.6_UDP_Server\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:46:18.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.4_UDP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.4_UDP_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.4_UDP_Client\\Program.cs",
+              "RelativeToolTip": "Lab3.4_UDP_Client\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:13:59.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.4_UDP_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.4_UDP_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.4_UDP_Server\\Program.cs",
+              "RelativeToolTip": "Lab3.4_UDP_Server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:13:27.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.3_UDP_Server\\App.config",
+              "RelativeDocumentMoniker": "Lab3.3_UDP_Server\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.3_UDP_Server\\App.config",
+              "RelativeToolTip": "Lab3.3_UDP_Server\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-04T15:35:42.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.3_UDP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.3_UDP_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.3_UDP_Client\\Program.cs",
+              "RelativeToolTip": "Lab3.3_UDP_Client\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:28:35.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.3_UDP_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.3_UDP_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.3_UDP_Server\\Program.cs",
+              "RelativeToolTip": "Lab3.3_UDP_Server\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:26:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.1_UDP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.1_UDP_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.1_UDP_Client\\Program.cs",
+              "RelativeToolTip": "Lab3.1_UDP_Client\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:06:33.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.1_UDP_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.1_UDP_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.1_UDP_Server\\Program.cs",
+              "RelativeToolTip": "Lab3.1_UDP_Server\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T14:06:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.5_UDP_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.5_UDP_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.5_UDP_Server\\Program.cs",
+              "RelativeToolTip": "Lab3.5_UDP_Server\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:22:02.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.5_UDP_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.5_UDP_Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\2312678_NLBLong_Lab3\\Lab3.5_UDP_Client\\Program.cs",
+              "RelativeToolTip": "Lab3.5_UDP_Client\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:22:59.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
